@@ -7,4 +7,4 @@ both options are compared and the winner is displayed as an output and the game 
 if there is no winner, the user gets to play again.
 
 thanks for visiting this repo. 
-feel free to check out my other projects @ github.com/sidney2022
+feel free to check out some of my other projects @ https://github.com/sidney2022
